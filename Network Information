@@ -1,0 +1,27 @@
+- Network Propertiers:
+
+- Name of the network: pharma-network
+
+The network will consist of the following organisations.
+- Manufacturer- 2 peers
+- Distributor-  2 peers
+- Retailer- 2 peers
+- Consumer- 2 peers
+- Transporter- 2 peers
+
+Initially, each organisation will have only ‘Admin’ as a User.
+
+Each organisation must set up a fabric-ca service.
+
+TLS should be disabled on the network.
+
+- Orderer Type: Solo
+The name of the channel should be ‘pharmachannel’.
+
+The name of the chaincode should be ‘pharmanet’.
+
+The chaincode should be installed on both the peers of all the organisations.
+
+Endorsement Policy: Any one of the organisations should endorse the transaction.
+
+Peer0 of each organisation should be selected as the anchor peer.
