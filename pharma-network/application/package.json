@@ -1,0 +1,19 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "NODEJS application accessing the pharma network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avi K",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fabric-client": "^1.4.4",
+    "fabric-network": "^1.4.4",
+    "js-yaml": "^3.12.0",
+    "pug": "^2.0.4"
+  }
+}
