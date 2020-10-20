@@ -1,6 +1,28 @@
-- Pharmacy netowrk:
+- Pharmacy netowrk to resolve the problem of drug counterfeiting, The three major negative implications of drug counterfeiting. 
 
-- StakeHolders:
+1. It results in a section of the society suffering from health issues. 
+
+2. Brand owners face a potential reputation risk. 
+
+3. There is a lack of transparency in drug distribution supply chains.
+
+- how can serialisation enable companies to handle all three methods of counterfeiting? 
+
+1. It would be extremely difficult for factories manufacturing counterfeit drugs to find and replicate SKU-level serial numbers.
+
+2. Second, circulation of genuine drugs in the black market at the contractor’s end would not be possible, as serial numbers are not shared with them. So, the sale or movement of drugs will not be activated.
+
+3. And third, the reintroduction of expired drugs into the supply chain would not be possible, as the serial numbers help identify the reintroduced drugs and ascertain that they have expired and are counterfeit.
+
+
+- serialisation can also be leveraged to provide two additional benefits: 
+
+1. The first is supply chain transparency. Using serial numbers to track products at the item level, companies would also reduce costs of their expired medicines, reduce instances of stock dumping and achieve pinpoint accuracy of item-level sales data. 
+
+2. The second is insurance fraud detection, where tighter controls can be enabled over high-priced products. So, recirculation or wrong usage can be prohibited, by considering purchases as uses and enforcing a single-use on each serial number. The result of such an application is observed in a reduction of health insurance costs, improvement of healthcare quality, transparent healthcare practices and complete utility of all purchases.
+
+
+- StakeHolders in the network:
 
 1. Manufacturers: All the drug manufacturers that are registered or will be registered in the future with the network will belong to this level. 
 For example, companies like ‘Sun Pharma’ and ‘Dr. Reddy’s Laboratories’ that are drug manufacturing companies will be a part of the ‘Manufacturers’ organisation.
