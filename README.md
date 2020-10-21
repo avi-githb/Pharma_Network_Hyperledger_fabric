@@ -1,4 +1,4 @@
-- Pharmacy netowrk to resolve the problem of drug counterfeiting, The three major negative implications of drug counterfeiting. 
+- Pharmacy network to resolve the problem of drug counterfeiting, The three major negative implications of drug counterfeiting. 
 
 1. It results in a section of the society suffering from health issues. 
 
